@@ -1,0 +1,17 @@
+# Pilot: harness shake-down and codebook development. Models are deliberately
+# NOT in the confirmatory panel, so no panel output is seen before preregistration.
+# (Free :free models are capped at 50 requests/day on this account; these cost cents.)
+name: pilot
+id_prefix: gbp
+seed: 20261004
+personas: [P01, P04, P06, P10]
+deployments: [roleplay, app]
+times: [early, late]
+reps: 1
+params:
+  max_tokens: 8192
+models:
+  - {id: anthropic/claude-haiku-4.5, label: haiku45, provider: {only: [anthropic], allow_fallbacks: false}, cache: true}
+  - {id: openai/gpt-oss-120b, label: gptoss120b}
+  - {id: google/gemma-4-31b-it, label: gemma4}
+  - {id: mistralai/mistral-small-2603, label: mistralsmall}

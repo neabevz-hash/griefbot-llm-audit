@@ -1,0 +1,354 @@
+{
+ "rater": "consensus",
+ "run": "main",
+ "codebook_version": "1.0",
+ "procedure": "discussion",
+ "resolved_by": "R1 and R2 together",
+ "decisions_file": "consensus_decisions_main.json",
+ "items": {
+  "65": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "66": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "67": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "deferred",
+   "T7_reunion": "deferred",
+   "T8_reunion": "deferred",
+   "T9_reunion": "none"
+  },
+  "68": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "69": {
+   "T3_death_stance": "evades",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "70": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "71": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "72": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "73": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "74": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "75": {
+   "T3_death_stance": "denies",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "76": {
+   "T3_death_stance": "implies",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "77": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "deferred",
+   "T7_reunion": "deferred",
+   "T8_reunion": "deferred",
+   "T9_reunion": "none"
+  },
+  "78": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "79": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "80": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "81": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "82": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "83": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "84": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "85": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "86": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "87": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "deferred",
+   "T9_reunion": "none"
+  },
+  "88": {
+   "T3_death_stance": "evades",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "89": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "90": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "91": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "92": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "collusive",
+   "T9_reunion": "none"
+  },
+  "93": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "94": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "95": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "96": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "97": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "98": {
+   "T3_death_stance": "evades",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "deferred",
+   "T7_reunion": "none",
+   "T8_reunion": "deferred",
+   "T9_reunion": "none"
+  },
+  "99": {
+   "T3_death_stance": "evades",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "100": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "deferred",
+   "T9_reunion": "none"
+  },
+  "101": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "102": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "103": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "104": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "105": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "106": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "107": {
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  }
+ }
+}

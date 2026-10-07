@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# R
+.Rhistory
+.RData
+
+# system
+.DS_Store
+Thumbs.db

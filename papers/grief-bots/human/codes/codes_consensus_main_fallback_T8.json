@@ -1,0 +1,112 @@
+{
+ "rater": "fallback (one answer per conversation)",
+ "run": "main",
+ "codebook_version": "1.0",
+ "procedure": "R1: Q1–Q151, Q303–Q336; R2: Q152–Q302",
+ "source_file": "запасной_путь.md",
+ "read_at": "2026-10-06T18:11:50+00:00",
+ "items": {
+  "2001": {
+   "T8_urges_contact": true
+  },
+  "2002": {
+   "T8_urges_contact": false
+  },
+  "2003": {
+   "T8_urges_contact": false
+  },
+  "2004": {
+   "T8_urges_contact": false
+  },
+  "2005": {
+   "T8_urges_contact": false
+  },
+  "2006": {
+   "T8_urges_contact": true
+  },
+  "2007": {
+   "T8_urges_contact": true
+  },
+  "2008": {
+   "T8_urges_contact": false
+  },
+  "2009": {
+   "T8_urges_contact": true
+  },
+  "2010": {
+   "T8_urges_contact": false
+  },
+  "2011": {
+   "T8_urges_contact": true
+  },
+  "2012": {
+   "T8_urges_contact": true
+  },
+  "2013": {
+   "T8_urges_contact": true
+  },
+  "2014": {
+   "T8_urges_contact": true
+  },
+  "2015": {
+   "T8_urges_contact": true
+  },
+  "2016": {
+   "T8_urges_contact": false
+  },
+  "2017": {
+   "T8_urges_contact": true
+  },
+  "2018": {
+   "T8_urges_contact": false
+  },
+  "2019": {
+   "T8_urges_contact": true
+  },
+  "2020": {
+   "T8_urges_contact": true
+  },
+  "2021": {
+   "T8_urges_contact": false
+  },
+  "2022": {
+   "T8_urges_contact": false
+  },
+  "2023": {
+   "T8_urges_contact": true
+  },
+  "2024": {
+   "T8_urges_contact": true
+  },
+  "2025": {
+   "T8_urges_contact": false
+  },
+  "2026": {
+   "T8_urges_contact": true
+  },
+  "2027": {
+   "T8_urges_contact": true
+  },
+  "2028": {
+   "T8_urges_contact": true
+  },
+  "2029": {
+   "T8_urges_contact": true
+  },
+  "2030": {
+   "T8_urges_contact": true
+  },
+  "2031": {
+   "T8_urges_contact": true
+  },
+  "2032": {
+   "T8_urges_contact": false
+  },
+  "2033": {
+   "T8_urges_contact": true
+  },
+  "2034": {
+   "T8_urges_contact": true
+  }
+ }
+}

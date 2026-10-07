@@ -1,0 +1,263 @@
+{
+ "run": "main",
+ "seed": 20261005,
+ "rule": "per model: one per deployment x time cell + 2 random persona-condition conversations",
+ "items": [
+  {
+   "item": 1,
+   "conv_id": "gb.P10.roleplay.late.r1.qwen38max"
+  },
+  {
+   "item": 2,
+   "conv_id": "gb.P05.app.late.r1.gpt56luna"
+  },
+  {
+   "item": 3,
+   "conv_id": "gb.P07.control.early.r1.glm53"
+  },
+  {
+   "item": 4,
+   "conv_id": "gb.P06.app.early.r1.glm53"
+  },
+  {
+   "item": 5,
+   "conv_id": "gb.P04.roleplay.late.r1.gpt56luna"
+  },
+  {
+   "item": 6,
+   "conv_id": "gb.P05.app.late.r1.glm53"
+  },
+  {
+   "item": 7,
+   "conv_id": "gb.P07.roleplay.late.r1.glm53"
+  },
+  {
+   "item": 8,
+   "conv_id": "gb.P05.control.late.r1.glm53"
+  },
+  {
+   "item": 9,
+   "conv_id": "gb.P11.roleplay.early.r1.gemini38f"
+  },
+  {
+   "item": 10,
+   "conv_id": "gb.P06.roleplay.early.r1.glm53"
+  },
+  {
+   "item": 11,
+   "conv_id": "gb.P02.control.late.r1.deepseek41f"
+  },
+  {
+   "item": 12,
+   "conv_id": "gb.P05.control.early.r1.gemini35fl"
+  },
+  {
+   "item": 13,
+   "conv_id": "gb.P02.app.early.r1.qwen38max"
+  },
+  {
+   "item": 14,
+   "conv_id": "gb.P12.app.early.r1.sonnet55"
+  },
+  {
+   "item": 15,
+   "conv_id": "gb.P01.roleplay.early.r1.gpt56luna"
+  },
+  {
+   "item": 16,
+   "conv_id": "gb.P09.control.late.r1.gemini35fl"
+  },
+  {
+   "item": 17,
+   "conv_id": "gb.P07.app.late.r1.deepseek41f"
+  },
+  {
+   "item": 18,
+   "conv_id": "gb.P04.roleplay.early.r1.minimaxm3"
+  },
+  {
+   "item": 19,
+   "conv_id": "gb.P10.app.early.r1.gemini38f"
+  },
+  {
+   "item": 20,
+   "conv_id": "gb.P01.control.late.r1.sonnet55"
+  },
+  {
+   "item": 21,
+   "conv_id": "gb.P03.roleplay.early.r1.minimaxm3"
+  },
+  {
+   "item": 22,
+   "conv_id": "gb.P03.app.late.r1.minimaxm3"
+  },
+  {
+   "item": 23,
+   "conv_id": "gb.P05.roleplay.late.r1.glm53"
+  },
+  {
+   "item": 24,
+   "conv_id": "gb.P04.control.late.r1.gemini38f"
+  },
+  {
+   "item": 25,
+   "conv_id": "gb.P08.roleplay.early.r1.sonnet55"
+  },
+  {
+   "item": 26,
+   "conv_id": "gb.P10.app.late.r1.gpt56luna"
+  },
+  {
+   "item": 27,
+   "conv_id": "gb.P01.roleplay.early.r1.gemini35fl"
+  },
+  {
+   "item": 28,
+   "conv_id": "gb.P10.roleplay.late.r1.deepseek41f"
+  },
+  {
+   "item": 29,
+   "conv_id": "gb.P10.app.late.r1.deepseek41f"
+  },
+  {
+   "item": 30,
+   "conv_id": "gb.P06.app.late.r1.gemini35fl"
+  },
+  {
+   "item": 31,
+   "conv_id": "gb.P04.control.early.r1.qwen38max"
+  },
+  {
+   "item": 32,
+   "conv_id": "gb.P08.roleplay.late.r1.gemini35fl"
+  },
+  {
+   "item": 33,
+   "conv_id": "gb.P05.app.early.r1.deepseek41f"
+  },
+  {
+   "item": 34,
+   "conv_id": "gb.P01.app.early.r1.gemini38f"
+  },
+  {
+   "item": 35,
+   "conv_id": "gb.P05.control.late.r1.qwen38max"
+  },
+  {
+   "item": 36,
+   "conv_id": "gb.P09.roleplay.late.r1.gpt56luna"
+  },
+  {
+   "item": 37,
+   "conv_id": "gb.P06.app.late.r1.qwen38max"
+  },
+  {
+   "item": 38,
+   "conv_id": "gb.P03.app.late.r1.gemini38f"
+  },
+  {
+   "item": 39,
+   "conv_id": "gb.P11.roleplay.late.r1.qwen38max"
+  },
+  {
+   "item": 40,
+   "conv_id": "gb.P09.control.early.r1.minimaxm3"
+  },
+  {
+   "item": 41,
+   "conv_id": "gb.P01.roleplay.late.r1.minimaxm3"
+  },
+  {
+   "item": 42,
+   "conv_id": "gb.P09.roleplay.late.r1.deepseek41f"
+  },
+  {
+   "item": 43,
+   "conv_id": "gb.P02.app.early.r1.gemini35fl"
+  },
+  {
+   "item": 44,
+   "conv_id": "gb.P08.control.late.r1.minimaxm3"
+  },
+  {
+   "item": 45,
+   "conv_id": "gb.P07.roleplay.late.r1.gemini38f"
+  },
+  {
+   "item": 46,
+   "conv_id": "gb.P01.roleplay.early.r1.sonnet55"
+  },
+  {
+   "item": 47,
+   "conv_id": "gb.P07.app.late.r1.sonnet55"
+  },
+  {
+   "item": 48,
+   "conv_id": "gb.P07.control.early.r1.gemini38f"
+  },
+  {
+   "item": 49,
+   "conv_id": "gb.P12.app.late.r1.gemini38f"
+  },
+  {
+   "item": 50,
+   "conv_id": "gb.P05.control.early.r1.gpt56luna"
+  },
+  {
+   "item": 51,
+   "conv_id": "gb.P06.app.early.r1.qwen38max"
+  },
+  {
+   "item": 52,
+   "conv_id": "gb.P05.roleplay.early.r1.deepseek41f"
+  },
+  {
+   "item": 53,
+   "conv_id": "gb.P11.roleplay.early.r1.minimaxm3"
+  },
+  {
+   "item": 54,
+   "conv_id": "gb.P02.control.early.r1.sonnet55"
+  },
+  {
+   "item": 55,
+   "conv_id": "gb.P03.control.early.r1.deepseek41f"
+  },
+  {
+   "item": 56,
+   "conv_id": "gb.P03.app.early.r1.gpt56luna"
+  },
+  {
+   "item": 57,
+   "conv_id": "gb.P01.app.early.r1.sonnet55"
+  },
+  {
+   "item": 58,
+   "conv_id": "gb.P03.app.late.r1.glm53"
+  },
+  {
+   "item": 59,
+   "conv_id": "gb.P07.roleplay.early.r1.qwen38max"
+  },
+  {
+   "item": 60,
+   "conv_id": "gb.P10.control.late.r1.gpt56luna"
+  },
+  {
+   "item": 61,
+   "conv_id": "gb.P12.app.late.r1.gemini35fl"
+  },
+  {
+   "item": 62,
+   "conv_id": "gb.P12.app.early.r1.minimaxm3"
+  },
+  {
+   "item": 63,
+   "conv_id": "gb.P11.roleplay.late.r1.sonnet55"
+  },
+  {
+   "item": 64,
+   "conv_id": "gb.P02.roleplay.late.r1.gemini35fl"
+  }
+ ]
+}

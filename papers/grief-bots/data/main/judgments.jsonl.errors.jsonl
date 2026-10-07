@@ -1,0 +1,4 @@
+{"conv_id": "gb.P08.control.late.r1.gpt56luna", "at": "2026-10-05T10:42:46+00:00", "error": "failed after 3 attempts: claude error: You've hit your session limit \u00b7 resets 5:20pm (Asia/Bishkek)"}
+{"conv_id": "gb.P01.app.late.r1.gemini35fl", "at": "2026-10-05T10:42:46+00:00", "error": "failed after 3 attempts: claude error: You've hit your session limit \u00b7 resets 5:20pm (Asia/Bishkek)"}
+{"conv_id": "gb.P02.roleplay.late.r1.gpt56luna", "at": "2026-10-05T10:42:46+00:00", "error": "failed after 3 attempts: claude error: You've hit your session limit \u00b7 resets 5:20pm (Asia/Bishkek)"}
+{"conv_id": "gb.P11.control.late.r1.gemini38f", "at": "2026-10-05T10:42:51+00:00", "error": "failed after 3 attempts: claude error: You've hit your session limit \u00b7 resets 5:20pm (Asia/Bishkek)"}

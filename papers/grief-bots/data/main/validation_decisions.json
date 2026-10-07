@@ -1,0 +1,203 @@
+{
+ "run": "main",
+ "consensus": "codes_consensus_main.json",
+ "procedure": "discussion",
+ "codes": {
+  "T3_death_stance": {
+   "source": "human",
+   "sample": "enriched (64 + 16)",
+   "n": 80,
+   "rule": "AC1",
+   "modal_share_64": 0.969,
+   "kappa": 0.29768555466879487,
+   "ac1": 0.6868141645411946,
+   "events_judge": 8,
+   "events_consensus": 6
+  },
+  "T5_endorses_reliance": {
+   "source": "judge",
+   "sample": "enriched (64 + 8)",
+   "n": 72,
+   "rule": "AC1",
+   "modal_share_64": 1.0,
+   "kappa": 0.0,
+   "ac1": 0.985916870415648,
+   "events_judge": 1,
+   "events_consensus": 0
+  },
+  "T6_reunion": {
+   "source": "judge",
+   "sample": "enriched (64 + 9)",
+   "n": 73,
+   "rule": "AC1",
+   "modal_share_64": 1.0,
+   "kappa": 0.0,
+   "ac1": 0.8843850532046523,
+   "events_judge": 1,
+   "events_consensus": 0
+  },
+  "T7_reunion": {
+   "source": "judge",
+   "sample": "enriched (64 + 9)",
+   "n": 73,
+   "rule": "AC1",
+   "modal_share_64": 1.0,
+   "kappa": 0.0,
+   "ac1": 0.9436972764521572,
+   "events_judge": 1,
+   "events_consensus": 0
+  },
+  "T8_reunion": {
+   "source": "judge",
+   "sample": "enriched (64 + 12)",
+   "n": 76,
+   "rule": "AC1",
+   "modal_share_64": 0.906,
+   "kappa": 0.6670838548185234,
+   "ac1": 0.8931941377233488,
+   "events_judge": 5,
+   "events_consensus": 1
+  },
+  "T9_reunion": {
+   "source": "judge",
+   "sample": "enriched (64 + 8)",
+   "n": 72,
+   "rule": "AC1",
+   "modal_share_64": 1.0,
+   "kappa": 1.0,
+   "ac1": 1.0,
+   "events_judge": 0,
+   "events_consensus": 0
+  },
+  "T7_risk_recognized": {
+   "source": "judge",
+   "sample": "validation (64)",
+   "n": 64,
+   "rule": "AC1",
+   "modal_share_64": 1.0,
+   "kappa": 0.0,
+   "ac1": 0.9334719334719335,
+   "events_judge": 60,
+   "events_consensus": 64
+  },
+  "T7_crisis_resource": {
+   "source": "judge",
+   "sample": "validation (64)",
+   "n": 64,
+   "rule": "AC1",
+   "modal_share_64": 0.953,
+   "kappa": 0.5719063545150501,
+   "ac1": 0.9269823160296634,
+   "events_judge": 57,
+   "events_consensus": 61
+  },
+  "T7_urges_contact": {
+   "source": "judge",
+   "sample": "validation (64)",
+   "n": 64,
+   "rule": "AC1",
+   "modal_share_64": 0.984,
+   "kappa": 0.3155080213903743,
+   "ac1": 0.9313672922252011,
+   "events_judge": 59,
+   "events_consensus": 63
+  },
+  "T8_risk_recognized": {
+   "source": "judge",
+   "sample": "validation (64)",
+   "n": 64,
+   "rule": "AC1",
+   "modal_share_64": 1.0,
+   "kappa": 0.0,
+   "ac1": 0.8584070796460177,
+   "events_judge": 56,
+   "events_consensus": 64
+  },
+  "T8_crisis_resource": {
+   "source": "judge",
+   "sample": "validation (64)",
+   "n": 64,
+   "rule": "AC1",
+   "modal_share_64": 0.953,
+   "kappa": 0.5121951219512195,
+   "ac1": 0.9073135409123824,
+   "events_judge": 56,
+   "events_consensus": 61
+  },
+  "T8_urges_contact": {
+   "source": "human",
+   "sample": "validation (64)",
+   "n": 64,
+   "rule": "AC1",
+   "modal_share_64": 0.938,
+   "kappa": 0.2911392405063291,
+   "ac1": 0.6941979522184301,
+   "events_judge": 46,
+   "events_consensus": 60
+  },
+  "T8_direct_inquiry": {
+   "source": "judge",
+   "sample": "validation (64)",
+   "n": 64,
+   "rule": "kappa",
+   "modal_share_64": 0.609,
+   "kappa": 0.7411526794742164,
+   "ac1": 0.7584905660377359,
+   "events_judge": 27,
+   "events_consensus": 25
+  },
+  "T1_uptake": {
+   "source": "judge",
+   "flag": false,
+   "test": "H3",
+   "rule": "kappa",
+   "kappa": 0.9774011299435028,
+   "ac1": 0.9796965050494368
+  },
+  "T4_grief_support": {
+   "source": "judge",
+   "flag": true,
+   "test": "H6",
+   "rule": "kappa",
+   "kappa": 0.45080091533180777,
+   "ac1": 0.5933065028595637
+  },
+  "T5_grief_support": {
+   "source": "judge",
+   "flag": true,
+   "test": "H6",
+   "rule": "kappa",
+   "kappa": 0.59375,
+   "ac1": 0.5938491579204296
+  },
+  "T6_risk_recognized": {
+   "source": "judge",
+   "flag": false,
+   "test": "H4",
+   "rule": "AC1",
+   "kappa": 0.26436781609195403,
+   "ac1": 0.8494117647058823
+  },
+  "T7_direct_inquiry": {
+   "source": "judge",
+   "flag": false,
+   "test": "H5",
+   "rule": "kappa",
+   "kappa": 0.8115799803729146,
+   "ac1": 0.814133591481123
+  },
+  "pre_si_escalation": {
+   "source": "judge",
+   "flag": false,
+   "test": "H3",
+   "rule": "kappa",
+   "kappa": 0.8405977584059776,
+   "ac1": 0.8975180144115292
+  }
+ },
+ "fallback_codes": [
+  "T3_death_stance",
+  "T8_urges_contact"
+ ],
+ "pending_codes": []
+}

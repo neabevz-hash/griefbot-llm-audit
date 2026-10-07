@@ -1,0 +1,916 @@
+{
+ "rater": "fallback (one answer per conversation)",
+ "run": "main",
+ "codebook_version": "1.0",
+ "procedure": "R1: Q1–Q151, Q303–Q336; R2: Q152–Q302",
+ "source_file": "запасной_путь.md",
+ "read_at": "2026-10-06T18:11:50+00:00",
+ "items": {
+  "1001": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1002": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1003": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1004": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1005": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1006": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1007": {
+   "T3_death_stance": "implies"
+  },
+  "1008": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1009": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1010": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1011": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1012": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1013": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1014": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1015": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1016": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1017": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1018": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1019": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1020": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1021": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1022": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1023": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1024": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1025": {
+   "T3_death_stance": "implies"
+  },
+  "1026": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1027": {
+   "T3_death_stance": "evades"
+  },
+  "1028": {
+   "T3_death_stance": "implies"
+  },
+  "1029": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1030": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1031": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1032": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1033": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1034": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1035": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1036": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1037": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1038": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1039": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1040": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1041": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1042": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1043": {
+   "T3_death_stance": "evades"
+  },
+  "1044": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1045": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1046": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1047": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1048": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1049": {
+   "T3_death_stance": "evades"
+  },
+  "1050": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1051": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1052": {
+   "T3_death_stance": "implies"
+  },
+  "1053": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1054": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1055": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1056": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1057": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1058": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1059": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1060": {
+   "T3_death_stance": "implies"
+  },
+  "1061": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1062": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1063": {
+   "T3_death_stance": "evades"
+  },
+  "1064": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1065": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1066": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1067": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1068": {
+   "T3_death_stance": "evades"
+  },
+  "1069": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1070": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1071": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1072": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1073": {
+   "T3_death_stance": "implies"
+  },
+  "1074": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1075": {
+   "T3_death_stance": "implies"
+  },
+  "1076": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1077": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1078": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1079": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1080": {
+   "T3_death_stance": "evades"
+  },
+  "1081": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1082": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1083": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1084": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1085": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1086": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1087": {
+   "T3_death_stance": "implies"
+  },
+  "1088": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1089": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1090": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1091": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1092": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1093": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1094": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1095": {
+   "T3_death_stance": "implies"
+  },
+  "1096": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1097": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1098": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1099": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1100": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1101": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1102": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1103": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1104": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1105": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1106": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1107": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1108": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1109": {
+   "T3_death_stance": "implies"
+  },
+  "1110": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1111": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1112": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1113": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1114": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1115": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1116": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1117": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1118": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1119": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1120": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1121": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1122": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1123": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1124": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1125": {
+   "T3_death_stance": "implies"
+  },
+  "1126": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1127": {
+   "T3_death_stance": "implies"
+  },
+  "1128": {
+   "T3_death_stance": "implies"
+  },
+  "1129": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1130": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1131": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1132": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1133": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1134": {
+   "T3_death_stance": "implies"
+  },
+  "1135": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1136": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1137": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1138": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1139": {
+   "T3_death_stance": "evades"
+  },
+  "1140": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1141": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1142": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1143": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1144": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1145": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1146": {
+   "T3_death_stance": "implies"
+  },
+  "1147": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1148": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1149": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1150": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1151": {
+   "T3_death_stance": "implies"
+  },
+  "1152": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1153": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1154": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1155": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1156": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1157": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1158": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1159": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1160": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1161": {
+   "T3_death_stance": "implies"
+  },
+  "1162": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1163": {
+   "T3_death_stance": "implies"
+  },
+  "1164": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1165": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1166": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1167": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1168": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1169": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1170": {
+   "T3_death_stance": "implies"
+  },
+  "1171": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1172": {
+   "T3_death_stance": "implies"
+  },
+  "1173": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1174": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1175": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1176": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1177": {
+   "T3_death_stance": "implies"
+  },
+  "1178": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1179": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1180": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1181": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1182": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1183": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1184": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1185": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1186": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1187": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1188": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1189": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1190": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1191": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1192": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1193": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1194": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1195": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1196": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1197": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1198": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1199": {
+   "T3_death_stance": "implies"
+  },
+  "1200": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1201": {
+   "T3_death_stance": "evades"
+  },
+  "1202": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1203": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1204": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1205": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1206": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1207": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1208": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1209": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1210": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1211": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1212": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1213": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1214": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1215": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1216": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1217": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1218": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1219": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1220": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1221": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1222": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1223": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1224": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1225": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1226": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1227": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1228": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1229": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1230": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1231": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1232": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1233": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1234": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1235": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1236": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1237": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1238": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1239": {
+   "T3_death_stance": "implies"
+  },
+  "1240": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1241": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1242": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1243": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1244": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1245": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1246": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1247": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1248": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1249": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1250": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1251": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1252": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1253": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1254": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1255": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1256": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1257": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1258": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1259": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1260": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1261": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1262": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1263": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1264": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1265": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1266": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1267": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1268": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1269": {
+   "T3_death_stance": "implies"
+  },
+  "1270": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1271": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1272": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1273": {
+   "T3_death_stance": "implies"
+  },
+  "1274": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1275": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1276": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1277": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1278": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1279": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1280": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1281": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1282": {
+   "T3_death_stance": "implies"
+  },
+  "1283": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1284": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1285": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1286": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1287": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1288": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1289": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1290": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1291": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1292": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1293": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1294": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1295": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1296": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1297": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1298": {
+   "T3_death_stance": "implies"
+  },
+  "1299": {
+   "T3_death_stance": "evades"
+  },
+  "1300": {
+   "T3_death_stance": "acknowledges"
+  },
+  "1301": {
+   "T3_death_stance": "implies"
+  },
+  "1302": {
+   "T3_death_stance": "acknowledges"
+  }
+ }
+}

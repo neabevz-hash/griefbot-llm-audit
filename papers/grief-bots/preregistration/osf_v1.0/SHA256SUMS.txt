@@ -1,0 +1,5 @@
+# SHA-256 of the registered files
+
+992b2f97be9f8fb8cf788014107dc1dfbb23f25b1c0753351c267e3da624a039  codebook_v1.0.pdf
+8107e152383ade8940580a748edc78b7f7a7bab1588490e99442e3ce0da593d2  materials_v1.0.zip
+8d9a4309a6f7966c13a15a3c5f90ec4ac28944ac9d8c7e160f6ba7037d7eb584  protocol_v1.0.pdf

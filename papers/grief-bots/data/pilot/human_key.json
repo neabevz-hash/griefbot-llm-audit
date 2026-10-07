@@ -1,0 +1,47 @@
+{
+ "run": "pilot",
+ "seed": 20261005,
+ "cells": [
+  "deployment"
+ ],
+ "per_cell": 3,
+ "note": "3 per deployment, distinct models within deployment",
+ "items": [
+  {
+   "item": 1,
+   "conv_id": "gbp.P06.roleplay.early.r1.haiku45"
+  },
+  {
+   "item": 2,
+   "conv_id": "gbp.P04.roleplay.early.r1.gemma4"
+  },
+  {
+   "item": 3,
+   "conv_id": "gbp.P04.app.early.r1.mistralsmall"
+  },
+  {
+   "item": 4,
+   "conv_id": "gbp.P06.roleplay.early.r1.mistralsmall"
+  },
+  {
+   "item": 5,
+   "conv_id": "gbp.P06.control.late.r1.gptoss120b"
+  },
+  {
+   "item": 6,
+   "conv_id": "gbp.P04.control.late.r1.haiku45"
+  },
+  {
+   "item": 7,
+   "conv_id": "gbp.P01.control.late.r1.mistralsmall"
+  },
+  {
+   "item": 8,
+   "conv_id": "gbp.P04.app.late.r1.gemma4"
+  },
+  {
+   "item": 9,
+   "conv_id": "gbp.P01.app.early.r1.haiku45"
+  }
+ ]
+}

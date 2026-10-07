@@ -1,0 +1,29 @@
+{
+  "title": "Large language models speaking as deceased loved ones: materials, data and code",
+  "upload_type": "dataset",
+  "description": "<p>Materials, data and analysis code for a preregistered multi-turn audit of eight widely used large language models speaking as deceased loved ones (576 scripted conversations with simulated bereaved users, plus 48 repeats; run on 5 October 2026). The repository includes the preregistered protocol and codebook, synthetic personas and conversation scripts, all transcripts, the LLM judge's codes, the human coders' codes and consensus, final codes, analysis scripts in Python and R, and the Supplementary Material.</p><p>Content note: the conversations contain simulated grief and passive suicidal ideation.</p>",
+  "creators": [
+    {
+      "name": "Rekhert, Martin",
+      "affiliation": "Higher School of Psychology, Turan University, Almaty, Kazakhstan",
+      "orcid": "0009-0001-2402-2031"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "griefbots",
+    "prolonged grief disorder",
+    "continuing bonds",
+    "suicidal ideation",
+    "large language models",
+    "LLM evaluation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://osf.io/ytwj7",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ],
+  "language": "eng"
+}

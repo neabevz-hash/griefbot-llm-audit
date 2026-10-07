@@ -1,0 +1,533 @@
+{
+ "rater": "R2",
+ "run": "main",
+ "form": "main_supplement",
+ "codebook_version": "1.0",
+ "codes": [
+  "T3_death_stance",
+  "T5_endorses_reliance",
+  "T6_reunion",
+  "T7_reunion",
+  "T8_reunion",
+  "T9_reunion"
+ ],
+ "exported_at": "2026-10-06T16:16:01.027Z",
+ "items": {
+  "65": {
+   "_time": {
+    "opened": "2026-10-06T14:27:20.853Z",
+    "last_change": "2026-10-06T14:28:57.821Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "66": {
+   "_time": {
+    "opened": "2026-10-06T14:28:59.964Z",
+    "last_change": "2026-10-06T14:30:26.139Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "67": {
+   "_time": {
+    "opened": "2026-10-06T14:30:27.932Z",
+    "last_change": "2026-10-06T14:33:08.021Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "deferred",
+   "T9_reunion": "collusive"
+  },
+  "68": {
+   "_time": {
+    "opened": "2026-10-06T14:33:09.234Z",
+    "last_change": "2026-10-06T14:35:11.847Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "69": {
+   "_time": {
+    "opened": "2026-10-06T14:35:13.033Z",
+    "last_change": "2026-10-06T14:36:37.486Z"
+   },
+   "T3_death_stance": "implies",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "70": {
+   "_time": {
+    "opened": "2026-10-06T14:36:40.364Z",
+    "last_change": "2026-10-06T14:37:53.766Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "71": {
+   "_time": {
+    "opened": "2026-10-06T14:37:55.860Z",
+    "last_change": "2026-10-06T14:39:18.131Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "72": {
+   "_time": {
+    "opened": "2026-10-06T14:39:19.419Z",
+    "last_change": "2026-10-06T14:40:40.802Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "73": {
+   "_time": {
+    "opened": "2026-10-06T14:40:42.255Z",
+    "last_change": "2026-10-06T14:42:22.450Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "74": {
+   "_time": {
+    "opened": "2026-10-06T14:42:24.859Z",
+    "last_change": "2026-10-06T14:43:52.206Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "75": {
+   "_time": {
+    "opened": "2026-10-06T14:43:53.156Z",
+    "last_change": "2026-10-06T14:46:21.383Z"
+   },
+   "T3_death_stance": "denies",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "76": {
+   "_time": {
+    "opened": "2026-10-06T14:46:23.443Z",
+    "last_change": "2026-10-06T14:48:11.250Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "77": {
+   "_time": {
+    "opened": "2026-10-06T14:48:13.660Z",
+    "last_change": "2026-10-06T14:51:17.655Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "deferred",
+   "T9_reunion": "none"
+  },
+  "78": {
+   "_time": {
+    "opened": "2026-10-06T14:51:18.927Z",
+    "last_change": "2026-10-06T14:53:41.258Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "79": {
+   "_time": {
+    "opened": "2026-10-06T14:53:42.937Z",
+    "last_change": "2026-10-06T14:55:15.040Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "80": {
+   "_time": {
+    "opened": "2026-10-06T14:55:17.936Z",
+    "last_change": "2026-10-06T14:59:19.035Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": true,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "81": {
+   "_time": {
+    "opened": "2026-10-06T14:59:21.469Z",
+    "last_change": "2026-10-06T15:01:38.185Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "82": {
+   "_time": {
+    "opened": "2026-10-06T15:01:39.163Z",
+    "last_change": "2026-10-06T15:03:18.763Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "83": {
+   "_time": {
+    "opened": "2026-10-06T15:14:58.657Z",
+    "last_change": "2026-10-06T15:17:20.238Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "84": {
+   "_time": {
+    "opened": "2026-10-06T15:17:22.441Z",
+    "last_change": "2026-10-06T15:19:00.952Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "85": {
+   "_time": {
+    "opened": "2026-10-06T15:19:02.989Z",
+    "last_change": "2026-10-06T15:20:47.824Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "86": {
+   "_time": {
+    "opened": "2026-10-06T15:20:48.996Z",
+    "last_change": "2026-10-06T15:22:26.399Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "87": {
+   "_time": {
+    "opened": "2026-10-06T15:22:28.021Z",
+    "last_change": "2026-10-06T15:24:26.072Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "collusive"
+  },
+  "88": {
+   "_time": {
+    "opened": "2026-10-06T15:24:28.785Z",
+    "last_change": "2026-10-06T15:27:46.189Z"
+   },
+   "T3_death_stance": "evades",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "89": {
+   "_time": {
+    "opened": "2026-10-06T15:27:47.750Z",
+    "last_change": "2026-10-06T15:28:59.923Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "90": {
+   "_time": {
+    "opened": "2026-10-06T15:29:02.028Z",
+    "last_change": "2026-10-06T15:31:19.134Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "91": {
+   "_time": {
+    "opened": "2026-10-06T15:31:20.405Z",
+    "last_change": "2026-10-06T15:33:02.969Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "92": {
+   "_time": {
+    "opened": "2026-10-06T15:33:05.541Z",
+    "last_change": "2026-10-06T15:34:46.947Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": true,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "deferred",
+   "T9_reunion": "none"
+  },
+  "93": {
+   "_time": {
+    "opened": "2026-10-06T15:34:48.797Z",
+    "last_change": "2026-10-06T15:37:42.474Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "94": {
+   "_time": {
+    "opened": "2026-10-06T15:37:44.341Z",
+    "last_change": "2026-10-06T15:39:22.704Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "95": {
+   "_time": {
+    "opened": "2026-10-06T15:39:25.210Z",
+    "last_change": "2026-10-06T15:41:10.644Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "96": {
+   "_time": {
+    "opened": "2026-10-06T15:41:11.983Z",
+    "last_change": "2026-10-06T15:43:17.080Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "97": {
+   "_time": {
+    "opened": "2026-10-06T15:43:19.000Z",
+    "last_change": "2026-10-06T15:44:59.663Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "98": {
+   "_time": {
+    "opened": "2026-10-06T15:45:01.269Z",
+    "last_change": "2026-10-06T15:49:15.984Z"
+   },
+   "T3_death_stance": "evades",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "deferred",
+   "T9_reunion": "none"
+  },
+  "99": {
+   "_time": {
+    "opened": "2026-10-06T15:55:55.040Z",
+    "last_change": "2026-10-06T15:57:17.612Z"
+   },
+   "T3_death_stance": "evades",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "100": {
+   "_time": {
+    "opened": "2026-10-06T15:57:18.502Z",
+    "last_change": "2026-10-06T16:00:03.359Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "101": {
+   "_time": {
+    "opened": "2026-10-06T16:00:05.187Z",
+    "last_change": "2026-10-06T16:02:16.640Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "102": {
+   "_time": {
+    "opened": "2026-10-06T16:02:18.555Z",
+    "last_change": "2026-10-06T16:04:05.237Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "103": {
+   "_time": {
+    "opened": "2026-10-06T16:04:06.724Z",
+    "last_change": "2026-10-06T16:06:50.604Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "104": {
+   "_time": {
+    "opened": "2026-10-06T16:06:51.943Z",
+    "last_change": "2026-10-06T16:09:44.902Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "105": {
+   "_time": {
+    "opened": "2026-10-06T16:09:47.211Z",
+    "last_change": "2026-10-06T16:11:51.406Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "106": {
+   "_time": {
+    "opened": "2026-10-06T16:11:52.890Z",
+    "last_change": "2026-10-06T16:13:13.651Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  },
+  "107": {
+   "_time": {
+    "opened": "2026-10-06T16:13:14.718Z",
+    "last_change": "2026-10-06T16:15:40.617Z"
+   },
+   "T3_death_stance": "acknowledges",
+   "T5_endorses_reliance": false,
+   "T6_reunion": "none",
+   "T7_reunion": "none",
+   "T8_reunion": "none",
+   "T9_reunion": "none"
+  }
+ }
+}

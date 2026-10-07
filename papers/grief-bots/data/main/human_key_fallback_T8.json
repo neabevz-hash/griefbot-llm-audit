@@ -1,0 +1,149 @@
+{
+ "run": "main",
+ "seed": 20261009,
+ "codes_asked": [
+  "T8_urges_contact"
+ ],
+ "scope": {
+  "T8_urges_contact": "conversations in which it decides P5 (no collusion and no other safety element at T8)"
+ },
+ "rule": "protocol \u00a75.3 fallback: both coders code these codes on every conversation in which the code can change an analysis and that is not yet double-coded for it (deviations.md, item 2)",
+ "items": [
+  {
+   "item": 2001,
+   "conv_id": "gb.P05.app.early.r1.minimaxm3"
+  },
+  {
+   "item": 2002,
+   "conv_id": "gb.P03.app.late.r1.deepseek41f"
+  },
+  {
+   "item": 2003,
+   "conv_id": "gb.P03.app.late.r1.gemini35fl"
+  },
+  {
+   "item": 2004,
+   "conv_id": "gb.P12.app.late.r1.minimaxm3"
+  },
+  {
+   "item": 2005,
+   "conv_id": "gb.P01.app.late.r1.minimaxm3"
+  },
+  {
+   "item": 2006,
+   "conv_id": "gb.P06.app.late.r1.deepseek41f"
+  },
+  {
+   "item": 2007,
+   "conv_id": "gb.P10.app.early.r1.gemini35fl"
+  },
+  {
+   "item": 2008,
+   "conv_id": "gb.P08.app.late.r1.glm53"
+  },
+  {
+   "item": 2009,
+   "conv_id": "gb.P11.app.early.r1.gemini35fl"
+  },
+  {
+   "item": 2010,
+   "conv_id": "gb.P10.app.late.r1.minimaxm3"
+  },
+  {
+   "item": 2011,
+   "conv_id": "gb.P08.app.early.r1.deepseek41f"
+  },
+  {
+   "item": 2012,
+   "conv_id": "gb.P01.app.late.r1.deepseek41f"
+  },
+  {
+   "item": 2013,
+   "conv_id": "gb.P07.app.late.r1.gemini35fl"
+  },
+  {
+   "item": 2014,
+   "conv_id": "gb.P06.app.early.r1.gemini35fl"
+  },
+  {
+   "item": 2015,
+   "conv_id": "gb.P09.app.early.r1.gemini35fl"
+  },
+  {
+   "item": 2016,
+   "conv_id": "gb.P07.app.early.r1.deepseek41f"
+  },
+  {
+   "item": 2017,
+   "conv_id": "gb.P12.control.late.r1.minimaxm3"
+  },
+  {
+   "item": 2018,
+   "conv_id": "gb.P04.app.late.r1.minimaxm3"
+  },
+  {
+   "item": 2019,
+   "conv_id": "gb.P11.app.late.r1.deepseek41f"
+  },
+  {
+   "item": 2020,
+   "conv_id": "gb.P10.app.early.r1.glm53"
+  },
+  {
+   "item": 2021,
+   "conv_id": "gb.P11.control.early.r1.minimaxm3"
+  },
+  {
+   "item": 2022,
+   "conv_id": "gb.P09.app.early.r1.minimaxm3"
+  },
+  {
+   "item": 2023,
+   "conv_id": "gb.P03.app.early.r1.gemini35fl"
+  },
+  {
+   "item": 2024,
+   "conv_id": "gb.P03.roleplay.early.r1.glm53"
+  },
+  {
+   "item": 2025,
+   "conv_id": "gb.P06.app.early.r1.minimaxm3"
+  },
+  {
+   "item": 2026,
+   "conv_id": "gb.P07.app.early.r1.gemini35fl"
+  },
+  {
+   "item": 2027,
+   "conv_id": "gb.P08.app.early.r1.gemini35fl"
+  },
+  {
+   "item": 2028,
+   "conv_id": "gb.P08.app.late.r1.gemini35fl"
+  },
+  {
+   "item": 2029,
+   "conv_id": "gb.P03.control.late.r1.minimaxm3"
+  },
+  {
+   "item": 2030,
+   "conv_id": "gb.P02.app.late.r1.gemini35fl"
+  },
+  {
+   "item": 2031,
+   "conv_id": "gb.P04.control.early.r1.minimaxm3"
+  },
+  {
+   "item": 2032,
+   "conv_id": "gb.P04.app.early.r1.minimaxm3"
+  },
+  {
+   "item": 2033,
+   "conv_id": "gb.P11.app.early.r1.minimaxm3"
+  },
+  {
+   "item": 2034,
+   "conv_id": "gb.P05.app.late.r1.gemini35fl"
+  }
+ ]
+}
