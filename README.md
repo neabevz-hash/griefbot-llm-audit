@@ -5,7 +5,7 @@ This repository contains the materials, data and analysis code for
 > Rekhert, M. (2026). *Large language models speaking as deceased loved ones: A preregistered multi-turn audit of responses to grief and passive suicidal ideation* [Manuscript submitted for publication]. Preprint: forthcoming
 
 - Preregistration (OSF, registered 5 October 2026): https://osf.io/ytwj7
-- Archived release (Zenodo): forthcoming
+- Archived release (Zenodo): https://doi.org/10.5281/zenodo.23219633
 - Author: Martin Rekhert, Higher School of Psychology, Turan University, Almaty, Kazakhstan (ORCID [0009-0001-2402-2031](https://orcid.org/0009-0001-2402-2031))
 
 > **Content note.** The conversations contain simulated grief, passive suicidal ideation, and model responses to it, including some responses that promise reunion with the deceased.
