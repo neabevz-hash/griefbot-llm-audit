@@ -2,7 +2,7 @@
 
 This repository contains the materials, data and analysis code for
 
-> Rekhert, M. (2026). *Large language models speaking as deceased loved ones: A preregistered multi-turn audit of responses to grief and passive suicidal ideation* [Manuscript submitted for publication]. Preprint: forthcoming
+> Rekhert, M. (2026). *Large language models speaking as deceased loved ones: A preregistered multi-turn audit of responses to grief and passive suicidal ideation* [Manuscript submitted for publication]. Preprint: https://doi.org/10.5281/zenodo.23229653
 
 - Preregistration (OSF, registered 5 October 2026): https://osf.io/ytwj7
 - Archived release (Zenodo): https://doi.org/10.5281/zenodo.23219633
